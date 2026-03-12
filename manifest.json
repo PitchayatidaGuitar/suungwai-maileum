@@ -1,0 +1,27 @@
+{
+  "name": "สูงวัย ไม่ลืม",
+  "short_name": "สูงวัย ไม่ลืม",
+  "description": "ระบบดูแลสุขภาพผู้สูงอายุ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f0e8",
+  "theme_color": "#1a6b4a",
+  "lang": "th",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='40' fill='%231a6b4a'/%3E%3Ctext x='96' y='130' text-anchor='middle' font-size='110' font-family='Arial'%3E%F0%9F%8C%BF%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='100' fill='%231a6b4a'/%3E%3Ctext x='256' y='340' text-anchor='middle' font-size='300' font-family='Arial'%3E%F0%9F%8C%BF%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "medical"],
+  "screenshots": []
+}
